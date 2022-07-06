@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>1651165937809.jpg</filename>
+	<path>D:\Repository\tracking-vision\images\raw\1651165937809.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>midnight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>882</xmin>
+			<ymin>200</ymin>
+			<xmax>1006</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

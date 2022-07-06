@@ -1,0 +1,64 @@
+item {
+	name: "fang" 
+	id: 1
+}
+item {
+	name: "ansel" 
+	id: 2
+}
+item {
+	name: "steward" 
+	id: 3
+}
+item {
+	name: "melantha" 
+	id: 4
+}
+item {
+	name: "cardigan" 
+	id: 5
+}
+item {
+	name: "spot" 
+	id: 6
+}
+item {
+	name: "catapult" 
+	id: 7
+}
+item {
+	name: "plume" 
+	id: 8
+}
+item {
+	name: "orchid" 
+	id: 9
+}
+item {
+	name: "hibiscus" 
+	id: 10
+}
+item {
+	name: "beagle" 
+	id: 11
+}
+item {
+	name: "midnight" 
+	id: 12
+}
+item {
+	name: "popukar" 
+	id: 13
+}
+item {
+	name: "vanilla" 
+	id: 14
+}
+item {
+	name: "kroos" 
+	id: 15
+}
+item {
+	name: "lava" 
+	id: 16
+}

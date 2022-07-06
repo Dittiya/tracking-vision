@@ -1,0 +1,26 @@
+<annotation>
+	<folder>processed</folder>
+	<filename>image_3_right.jpg</filename>
+	<path>D:\Repository\tracking-vision\images\processed\image_3_right.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cardigan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>190</ymin>
+			<xmax>198</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+</annotation>

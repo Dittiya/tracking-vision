@@ -1,0 +1,26 @@
+<annotation>
+	<folder>processed</folder>
+	<filename>image_10_right.jpg</filename>
+	<path>D:\Repository\tracking-vision\images\processed\image_10_right.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ansel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>503</xmin>
+			<ymin>176</ymin>
+			<xmax>623</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

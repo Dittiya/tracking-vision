@@ -1,0 +1,26 @@
+<annotation>
+	<folder>processed</folder>
+	<filename>image_9_right.jpg</filename>
+	<path>D:\Repository\tracking-vision\images\processed\image_9_right.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>popukar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>189</ymin>
+			<xmax>365</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>
