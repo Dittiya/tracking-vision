@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hibiscus</folder>
+	<filename>hibiscus_2.jpg</filename>
+	<path>D:\Repository\tracking-vision\images\segmented\hibiscus\hibiscus_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hibiscus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>186</ymin>
+			<xmax>545</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

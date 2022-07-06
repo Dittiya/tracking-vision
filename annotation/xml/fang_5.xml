@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fang</folder>
+	<filename>fang_5.jpg</filename>
+	<path>D:\Repository\tracking-vision\images\segmented\fang\fang_5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>210</ymin>
+			<xmax>421</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

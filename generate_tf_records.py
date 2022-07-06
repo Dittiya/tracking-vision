@@ -46,8 +46,7 @@ class TFRecord:
 
 
     def create_tf(self, group, path):
-        with tf.io.gfile.GFile(os.path.join(path, '{}'\
-                                        .format(group.filename)), 'rb') as fid:
+        with tf.io.gfile.GFile(os.path.join(path, '{}'.format(group.filename)), 'rb') as fid:
             encoded_jpg = fid.read()
         encoded_jpg_io = io.BytesIO(encoded_jpg)
         image = Image.open(encoded_jpg_io)
@@ -81,10 +80,8 @@ class TFRecord:
             'image/object/bbox/xmax': dataset_util.float_list_feature(xmaxs),
             'image/object/bbox/ymin': dataset_util.float_list_feature(ymins),
             'image/object/bbox/ymax': dataset_util.float_list_feature(ymaxs),
-            'image/object/class/text':\
-                                dataset_util.bytes_list_feature(classes_text),
-            'image/object/class/label':\
-                                    dataset_util.int64_list_feature(classes),
+            'image/object/class/text': dataset_util.bytes_list_feature(classes_text),
+            'image/object/class/label': dataset_util.int64_list_feature(classes),
         }))
         return tf_sample
 

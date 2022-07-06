@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lava</folder>
+	<filename>lava_1.jpg</filename>
+	<path>D:\Repository\tracking-vision\images\segmented\lava\lava_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>175</ymin>
+			<xmax>186</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

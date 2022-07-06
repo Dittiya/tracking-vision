@@ -1,0 +1,26 @@
+<annotation>
+	<folder>beagle</folder>
+	<filename>beagle_2.jpg</filename>
+	<path>D:\Repository\tracking-vision\images\segmented\beagle\beagle_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beagle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>178</ymin>
+			<xmax>395</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

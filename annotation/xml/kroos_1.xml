@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kroos</folder>
+	<filename>kroos_1.jpg</filename>
+	<path>D:\Repository\tracking-vision\images\segmented\kroos\kroos_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kroos</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>206</ymin>
+			<xmax>293</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>
